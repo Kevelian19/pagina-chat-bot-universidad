@@ -1,4 +1,4 @@
-# Chatbot Cora - Proyecto
+# Chatbot BYTECORE - Proyecto
 
 ## Descripción
 
