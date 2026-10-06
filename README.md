@@ -1,4 +1,4 @@
-# Chatbot BYTECORE - Proyecto
+BYTECORE - Proyecto
 
 ## Descripción
 
