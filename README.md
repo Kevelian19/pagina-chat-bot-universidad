@@ -1,4 +1,4 @@
-# Chatbot Cora - Proyecto Universitario
+# Chatbot Cora - Proyecto
 
 ## Descripción
 
